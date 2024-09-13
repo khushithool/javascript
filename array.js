@@ -26,6 +26,6 @@ numbers.pop()
 numbers.pop()
 
 // array.shift() removes the element from leading side of an array
-numbers.shift()
+numbers.shift()m
 console.log(numbers)
 
